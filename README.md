@@ -5,4 +5,4 @@
 
 # Topics
 
-1. Образование 29.08.2018
+1. [Образование 29.08.2018](https://github.com/kzvonov/secon_meetup/blob/master/topics/education.md)
