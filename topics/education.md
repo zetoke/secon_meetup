@@ -26,6 +26,8 @@
 
 * [eng] [О том, как учиться](https://ru.coursera.org/learn/learning-how-to-learn)
 
+* [email рассылка][Курс о внимании к себе и своему времени](http://www.niceandeasy.me/daily/course01-invitation#)
+
 
 ## Лекции
 
