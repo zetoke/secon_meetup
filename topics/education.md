@@ -40,4 +40,4 @@
 
 ## Статьи
 
-* [J том, как все успеть](http://www.niceandeasy.me/daily/how-to-succeed)
+* [О том, как все успеть](http://www.niceandeasy.me/daily/how-to-succeed)
