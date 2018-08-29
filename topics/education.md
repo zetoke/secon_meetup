@@ -39,7 +39,7 @@
 
 * [Мозг, инструкция по применению](https://www.youtube.com/watch?v=953uZgYNj9g)
 
-* [Как все успевать?](https://www.youtube.com/watch?v=fWR5SFhBUWc)
+* [Принцип экономии мыслетоплива](https://www.youtube.com/watch?v=fWR5SFhBUWc)
 
 * [eng][Как работает мозг прокрастинатора](https://waitbutwhy.com/2016/03/my-ted-talk.html)
 
