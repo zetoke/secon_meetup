@@ -43,6 +43,7 @@ It's always cool to share your materials, **please open PRs with your links**, w
 
 * [eng] [Best procrastination explanation](https://waitbutwhy.com/2016/03/my-ted-talk.html),  Tim Urban
 
+* [Культура и чтение в информационную эпоху](https://youtu.be/NVGLafSaKmk)
 
 ## Articles
 
