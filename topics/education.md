@@ -1,49 +1,49 @@
-# Обучение
+# Self-Education
 
-## Описание
+## Description
 
-Первая встреча уже скоро и я думаю, что стоит начать с чего-то общего, что будет полезно всем, а именно обучения, самообразования. Обсудить то, как работает наш мозг и как мы учимся, а еще поговорить о прокрастинации.
+The first meeting is soon and we start with something lite, something useful for anyone. Let's discuss education and common pitfalls of learning.
 
-Я постараюсь подготовить небольшую презентацию, чтобы задать тон беседе. Посмотрим, что из этого получится. И да, на посиделках будем пробовать разные форматы, возможно что-то не будет заходить, поэтому ко мне всегда можно обратиться с предложениями и критикой (конструктивной), а можно и просто поделиться мнением.
+I'll try to prepare the presentation and will lead the discussion. 
+
+After the discussion, I'll glad to hear your opinion or suggestions.
 
 
-## Вопросы для обсуждения
-1. Как правильно подходить к обучению?
-2. Как работает наш мозг?
-3. Прокрастинация и продуктивность
-3. Книги и ресурсы
+## Questions to discuss
+1. How to learn?
+2. How does our brain work?
+3. Procrastination
+3. Books and Resources
 
 ---
 
-# Ресурсы
+# Resources
 
-Я уверен, что у вас есть чем поделить, поэтому открывайте PR'ы с вашими ссылками на ресурсы.
+It's always cool to share your materials, **please open PRs with your links**, we do not have standards for PR, just put a link and a small description.
 
-Стандартов для PR'а пока никаких нет, но было бы круто получить простое и небольшое описание о материалах, которые предлагаете.
+[How to make PRs](https://help.github.com/articles/creating-a-pull-request/)
 
-Вот тут можно почитать о том, как создавать PR - [ссылка](https://help.github.com/articles/creating-a-pull-request/).
+## Books
 
-## Книги
-
-* [Думай как математик](https://www.ozon.ru/context/detail/id/33253422/)
+* [must read] [Думай как математик](https://www.ozon.ru/context/detail/id/33253422/), Barbara Oakley
 
 
-## Курсы
+## Courses
 
-* [eng] [О том, как учиться](https://ru.coursera.org/learn/learning-how-to-learn)
+* [eng] [Learning how to learn](https://ru.coursera.org/learn/learning-how-to-learn), Barbara Oakley
 
-* [email рассылка][Курс о внимании к себе и своему времени](http://www.niceandeasy.me/daily/course01-invitation#)
-
-
-## Лекции
-
-* [Мозг, инструкция по применению](https://www.youtube.com/watch?v=953uZgYNj9g)
-
-* [Принцип экономии мыслетоплива](https://www.youtube.com/watch?v=fWR5SFhBUWc)
-
-* [eng][Как работает мозг прокрастинатора](https://waitbutwhy.com/2016/03/my-ted-talk.html)
+* [email course] [Курс о внимание к себе и своему времени](http://www.niceandeasy.me/daily/course01-invitation#), Тимур Зарудный
 
 
-## Статьи
+## Lections
 
-* [О том, как все успеть](http://www.niceandeasy.me/daily/how-to-succeed)
+* "[Мозг, инструкция по применению](https://www.youtube.com/watch?v=953uZgYNj9g)", Андрей Курпатов
+
+* [Принцип экономии мыслетоплива](https://www.youtube.com/watch?v=fWR5SFhBUWc), Максим Дорофеев
+
+* [eng] [Best procrastination explanation](https://waitbutwhy.com/2016/03/my-ted-talk.html),  Tim Urban
+
+
+## Articles
+
+* [must read] [Как все успеть](http://www.niceandeasy.me/daily/how-to-succeed), Тимур Зарудный
