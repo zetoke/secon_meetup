@@ -48,6 +48,7 @@ It's always cool to share your materials, **please open PRs with your links**, w
 ## Articles
 
 * [must read] [Как все успеть](http://www.niceandeasy.me/daily/how-to-succeed), Тимур Зарудный
+* [Как учиться и справляться с негативными мыслями](https://guides.hexlet.io/learning/), Hexlet
 
 
 ## Atmosphere [sounds]
