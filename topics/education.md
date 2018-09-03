@@ -48,3 +48,12 @@ It's always cool to share your materials, **please open PRs with your links**, w
 ## Articles
 
 * [must read] [Как все успеть](http://www.niceandeasy.me/daily/how-to-succeed), Тимур Зарудный
+
+
+## Atmosphere [sounds]
+
+* https://www.noisli.com/
+* https://defonic.com/
+* https://hipstersound.com/ambience.html
+* https://asoftmurmur.com/
+* The best ambient there https://youtu.be/FU_yNE2MMOU
